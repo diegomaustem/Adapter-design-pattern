@@ -1,5 +1,4 @@
 <?php 
-
 class MysqlAdapter implements DbAdapter
 {
     private $mysql;

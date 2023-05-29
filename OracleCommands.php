@@ -1,5 +1,6 @@
 <?php 
 
+require_once('DbAdapter.php');
 class OracleCommands implements DbAdapter
 {
     public function insert() {

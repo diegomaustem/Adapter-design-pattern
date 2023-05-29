@@ -1,5 +1,4 @@
 <?php 
-
 interface DbAdapter 
 {
     public function insert();

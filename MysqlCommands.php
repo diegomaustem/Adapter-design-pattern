@@ -1,5 +1,4 @@
 <?php 
-
 class MysqlCommands
 {
     public function insertMysql() {
